@@ -16,5 +16,6 @@ actualizar_producto(inventario, 'peras', 25)
 mostrar_inventario(inventario)
 
 
+
                    
 

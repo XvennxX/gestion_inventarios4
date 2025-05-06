@@ -17,5 +17,8 @@ mostrar_inventario(inventario)
 
 
 
+
+
+       
                    
 
